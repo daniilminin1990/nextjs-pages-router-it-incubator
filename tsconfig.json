@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    // Новое свойство для абсолютных путей - "baseUrl": ".", все. Больше ничего
+    "baseUrl": ".",
     "target": "es5",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,

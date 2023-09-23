@@ -1,0 +1,9 @@
+.links {
+  display: flex;
+  column-gap: 20px;
+
+  & a:hover {
+    // Это использование SCSS
+    color: rgb(15, 87, 221);
+  }
+}
